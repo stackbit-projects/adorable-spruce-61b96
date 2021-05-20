@@ -91,7 +91,7 @@ sections:
     reviews:
       - type: review_item
         template: review_item
-        author: Eric Widget
+        author: Son patron
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
