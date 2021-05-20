@@ -7,7 +7,7 @@ sections:
     title: Bienvenue sur le site de Morgane
     content: |
       *Site de test pour s'améliorer sur stackbit*
-    image: images/hero.png
+    image: /images/8_thumb.jpg
     image_alt: App preview
     actions:
       - type: action
