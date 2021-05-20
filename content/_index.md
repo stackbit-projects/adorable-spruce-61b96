@@ -38,7 +38,7 @@ sections:
         actions:
           - type: action
             template: action
-            label: Learn More
+            label: Viens cliquer là
             url: /features
             style: secondary
             has_icon: true
