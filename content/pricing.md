@@ -28,7 +28,7 @@ sections:
         template: pricing_plan
         title: Professional
         subtitle: For medium-sized businesses
-        price: $49/m
+        price: 50€/h
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
