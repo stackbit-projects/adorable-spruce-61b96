@@ -12,7 +12,7 @@ sections:
         template: pricing_plan
         title: Basic
         subtitle: For small businesses
-        price: $5/m
+        price: 20€/h
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
