@@ -33,7 +33,7 @@ sections:
           *   communication
 
           *   graphisme
-        image: images/feature1.png
+        image: /images/7.jpg
         image_alt: App preview on a phone and tablet
         actions:
           - type: action
