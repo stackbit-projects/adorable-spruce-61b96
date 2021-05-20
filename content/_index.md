@@ -12,7 +12,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Learn More
+        label: Clique ici !!!!!
         url: /features
         style: primary
   - type: section_features
