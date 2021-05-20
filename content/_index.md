@@ -95,8 +95,8 @@ sections:
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Morgane est un très bon élément elle a tellement apporté à notre
+          entrepris.
       - type: review_item
         template: review_item
         author: Parsley Montana
