@@ -5,9 +5,8 @@ sections:
     template: section_hero
     section_id: hero
     title: Bienvenue sur le site de Morgane
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      *Site de test pour s'améliorer sur stackbit*
     image: images/hero.png
     image_alt: App preview
     actions:
