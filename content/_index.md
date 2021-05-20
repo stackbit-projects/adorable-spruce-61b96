@@ -19,9 +19,7 @@ sections:
     template: section_features
     section_id: features
     title: Présentation
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Je suis étudiante en marketing digital et j'aime les chats
     background: gray
     features:
       - type: feature_item
